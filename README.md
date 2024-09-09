@@ -17,11 +17,3 @@ This repository contains a Python program that simulates an ATM system. The appl
 ### Prerequisites
 
 - Python 3.x installed on your system.
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/atm-simulation.git
-   cd atm-simulation
